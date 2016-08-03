@@ -1,0 +1,1 @@
+Even we use synthetic image for denoising experiments, we give this sample image as input to use its dng tags in it. 
